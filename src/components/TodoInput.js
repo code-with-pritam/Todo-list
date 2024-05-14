@@ -16,7 +16,7 @@ function TodoInput(props) {
         placeholder="Enter your todo"
         value={inputText}
         onChange={e=>{
-            setInputText(e.target.value)
+            setInputText(e.target.value) 
         }}
         onKeyDown={handleEnterPress}
       />
@@ -24,7 +24,7 @@ function TodoInput(props) {
       onClick={()=>{
         props.addList(inputText)
         setInputText("")
-      }}>+</button>      
+      }}>Add</button>      
     </div>
   );
 }

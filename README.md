@@ -1,14 +1,22 @@
-# React-Todo-App
-Todo list app project using react hooks
-Here is the screenshot of the project.
+To get started with this project, follow these steps:
 
-<img width="457" alt="image" src="https://user-images.githubusercontent.com/36126362/213862825-c5c342c6-6ba1-421a-9784-2848368feea4.png">
+Step 1:
 
-<h3>Functionalities:</h3>
-<ol>
-  <li> Add Todo by clicking add button</li>
-  <li> Add Todo by pressing Enter key</li>
-  <li> Delete Todo</li>
- </ol>
- <h1> Video tutorial for the same in Hindi</h1>
- <a href="https://youtu.be/RxPF47orKzo"> Video Tutorial</a>
+Clone the repository: https://github.com/code-with-pritam/Todo-list.git
+cd Todo-list
+
+Step 2:
+
+Install the dependencies: npm install / npm i
+
+Step 3: 
+
+Start the development server:npm start
+
+Step 4:
+Open http://localhost:3000 to view it in your browser.
+
+
+
+
+
